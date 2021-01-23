@@ -303,4 +303,4 @@ ui.frame_optionFile_saveProtocol.clicked.connect(PROTOCOL.save_protocol)
 ui.frame_optionFile_reset.clicked.connect(PROTOCOL.__init__)
 
 sys.exit(app.exec_())
-
+# было дело...
